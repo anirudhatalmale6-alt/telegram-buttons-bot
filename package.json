@@ -1,0 +1,12 @@
+{
+  "name": "telegram-buttons-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot with persistent Reply Keyboard buttons for group posting",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
